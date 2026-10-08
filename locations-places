@@ -1,63 +1,62 @@
 <!doctype html>
 <html lang="en">
 <head>
+ <div style="text-align: justify; text-justify: inter-word;">
+  
     <meta charset="utf-8">
 
-    <title>Art of the Azulejo</title> 
+    <title>Build Your Own - The Pocket Anthology</title> 
     <!-- ask if I should change the description content since i am putting it in the header?/-->
-    <meta name="description" content="History of the commonplace book and famous commonplacers.">
+    <meta name="description" content="Learn how to start and organize your own commonplace book">
     <meta name="author" content="Lee Beatty">
     <link rel="icon" type="image/png" href="favicon.ico">
     <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
-
     <header>
-         <nav>
-            <a href="index.html">Home MIGHT DELETE</a>
-            <a href="history.html">Brief History</a>
-            <a href="tile-designs.html">Tile Designs</a>
-            <a href="locations-places.html">Locations</a>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="history.html">The Archives</a>
+            <a href="build-your-own.html">Build Your Own</a>
+            <a href="prompts.html">Prompts and Inspirations</a>
         </nav>
-
-        <h1>Brief History</h1>
+        <h1>Build Your Own/How-to</h1>
     </header>
 
     <main>
         <section>
-            <h2>Origins</h2>
-                <p>The story of the azulejo reflects centuries of cultural exchanges across the Iberian Peninsula. 
-                    The word azulejo comes from the Arabic term al-zulayj, meaning a small, polished stone. 
-                    Early tile traditions incorporated Islamic and Mudéjar techniques and patterns, 
-                    while later Italian majolica, Dutch, and Flemish artistic influences expanded the possibilities for painted ceramic decoration. 
-                    The traditional glazed ceramic tiles are made using multiple steps. 
-                    First, they are shaped with red clay, molded into squares, and dried for weeks. They are then fired, glazed with a tin-oxide base and an opaque white layer, 
-                    hand-painted with raw metal oxide pigments, and fired once more for their final finish. 
-                </p>
+            <h2>Getting Started: The First Pages</h2>
         </section>
-
+   
         <section>
-            <h2>Renaissance and European Influence</h2>
-                <p>With the arrival of the Renaissance in Portugal during the sixteenth century, new painting techniques let tilemakers go beyond repeated pattern designs. 
-                    Italian and Flemish influences through trade would bring different techniques of showing pictures and decorations such as classical architectural details and vegetal designs.
-                     This would make Portuguese tiled walls become increasingly complex.
-                     These styles would then be integrated into the surfaces of churches, palaces, and other buildings and environments.
+            <h2>Organization and Indexing</h2>
+                <h3>John Locke's Index Method</h3>
+                <p>John Locke's index method was designed with the purpose of
+                accesibility and making it easier for readers to find/reference
+                their notes at later dates. His method included different elements such as...
                 </p>
+            <ul>
+                <li>
+                    2-page index grid, where the first two pages were left for organizing a grid consisting of each letter of the alphabet, divided into the 5 vowels.
+                </li>
+                <li>
+                    The vowels were made to index each topic based on the first letter and the next vowel
+                </li>
+                <li>
+                    Each page is categorized by date on the left margin. These entries are logged into the index grid.
+                </li>
+            </ul>
+                <p>This method might seem complicated This method might seem complicated at first, but it is entirely optional... 
+                    If you are an organizing friend, you are welcome to try it out, but sometimes it's just fun to let your mind wander onto your pages.  </p>
         </section>
-
-        <section>
-            <h2>Blue and White</h2>
-                <p>Blue and white tilework became one of the most predominant and recognizable types of Portuguese azulejos. 
-                    Portugal's sea trade connections brought Chinese porcelain into Lisbon during the Age of Discovery.
-                     European ceramic producers would adapt to the visual appeal of the blue decoration on pale surfaces in their own ceramics. 
-                    Cobalt blue is ideal for glazing and ensured durability as well as visual appeal.
-                </p>
-        </section>
+   
+    <footer>
+        <p>Social Media: Instagram | Pinterest?</p>
+    </footer>
+   
     </main>
 
- <footer>
-    <p>Social Media: Instagram | Pinterest?</p>
-</footer>
 
 </body>
-</html>
+</div>
