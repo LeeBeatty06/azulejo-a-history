@@ -20,7 +20,7 @@
             <a href="prompts.html">Prompts and Inspirations</a>
         </nav>
 
-        <h1>History</h1>
+        <h1>Brief History</h1>
     </header>
 
     <main>
@@ -46,43 +46,12 @@
         </section>
 
         <section>
-            <h3>Blue and White</h3>
+            <h2>Blue and White</h2>
                 <p>Blue and white tilework became one of the most predominant and recognizable types of Portuguese azulejos. 
                     Portugal's sea trade connections brought Chinese porcelain into Lisbon during the Age of Discovery.
                      European ceramic producers would adapt to the visual appeal of the blue decoration on pale surfaces in their own ceramics. 
                     Cobalt blue is ideal for glazing and ensured durability as well as visual appeal.
                 </p>
-        </section>
-
-        <section>
-            <h3>The Englightenment</h3>
-            <p>STILL NEED TO FINISH THIS TEXT</p>
-        </section>
-
-        <section>
-            <h2>Famous Commonplacers</h2>
-
-            <h3>John Locke</h3>
-                <p>John Locke (1632-1704) was an influential English philosopher, and
-                physician during the Enlightenment movement. Known for his foundational
-                work in epistemology and political philosophy. He is also remembered
-                for his approach to commonplace books. In 1685, he developed an indexing
-                method in his essay titled A New Method of Making Common-Place Books. Locke's commonplace 
-                book was an organized, indexed repository that was designed to keep records of excerpts, reflections, 
-                and citations without forcing entries into rigid categories or from having the dilemma of a
-                disorganized notebook.</p>
-
-            <h3>Thomas Jefferson</h3>
-                <p>In the 18th Century, the 3rd President of the United States Thomas
-                Jefferson kept both literature and legal based commonplace books.
-                He would include topics of interest such as politics, history, law, and philosophy.</p>
-
-            <h3>Virginia Woolf</h3>
-                <p>NEED TO FINISH TEXT FIRST</p>
-
-            <h3>Oscar Wilde</h3>
-                 <p>NEED TO FINISH TEXT FIRST</p>
-        
         </section>
     </main>
 
