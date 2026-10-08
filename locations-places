@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+
+    <title>Art of the Azulejo</title> 
+    <!-- ask if I should change the description content since i am putting it in the header?/-->
+    <meta name="description" content="History of the commonplace book and famous commonplacers.">
+    <meta name="author" content="Lee Beatty">
+    <link rel="icon" type="image/png" href="favicon.ico">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+         <nav>
+            <a href="index.html">Home MIGHT DELETE</a>
+            <a href="history.html">Brief History</a>
+            <a href="tile-designs.html">Tile Designs</a>
+            <a href="locations-places.html">Locations</a>
+        </nav>
+
+        <h1>Brief History</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>Origins</h2>
+                <p>The story of the azulejo reflects centuries of cultural exchanges across the Iberian Peninsula. 
+                    The word azulejo comes from the Arabic term al-zulayj, meaning a small, polished stone. 
+                    Early tile traditions incorporated Islamic and Mudéjar techniques and patterns, 
+                    while later Italian majolica, Dutch, and Flemish artistic influences expanded the possibilities for painted ceramic decoration. 
+                    The traditional glazed ceramic tiles are made using multiple steps. 
+                    First, they are shaped with red clay, molded into squares, and dried for weeks. They are then fired, glazed with a tin-oxide base and an opaque white layer, 
+                    hand-painted with raw metal oxide pigments, and fired once more for their final finish. 
+                </p>
+        </section>
+
+        <section>
+            <h2>Renaissance and European Influence</h2>
+                <p>With the arrival of the Renaissance in Portugal during the sixteenth century, new painting techniques let tilemakers go beyond repeated pattern designs. 
+                    Italian and Flemish influences through trade would bring different techniques of showing pictures and decorations such as classical architectural details and vegetal designs.
+                     This would make Portuguese tiled walls become increasingly complex.
+                     These styles would then be integrated into the surfaces of churches, palaces, and other buildings and environments.
+                </p>
+        </section>
+
+        <section>
+            <h2>Blue and White</h2>
+                <p>Blue and white tilework became one of the most predominant and recognizable types of Portuguese azulejos. 
+                    Portugal's sea trade connections brought Chinese porcelain into Lisbon during the Age of Discovery.
+                     European ceramic producers would adapt to the visual appeal of the blue decoration on pale surfaces in their own ceramics. 
+                    Cobalt blue is ideal for glazing and ensured durability as well as visual appeal.
+                </p>
+        </section>
+    </main>
+
+ <footer>
+    <p>Social Media: Instagram | Pinterest?</p>
+</footer>
+
+</body>
+</html>
